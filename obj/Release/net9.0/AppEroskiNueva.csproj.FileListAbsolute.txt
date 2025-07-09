@@ -199,8 +199,6 @@ E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\dotnet.r
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat
-E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\AppEroskiNueva.zfu3h3d1h3.wasm
-E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\AppEroskiNueva.3sf9rl5ff9.pdb
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\blazor.webassembly.js.gz
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.n7we7nbch1.wasm.gz
@@ -403,8 +401,6 @@ E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\dotnet.r
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\icudt_CJK.tjcz0u77k5.dat.gz
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\icudt_EFIGS.tptq2av103.dat.gz
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\icudt_no_CJK.lfu7j35m59.dat.gz
-E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\AppEroskiNueva.zfu3h3d1h3.wasm.gz
-E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\AppEroskiNueva.3sf9rl5ff9.pdb.gz
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\blazor.boot.json.gz
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\AppEroskiNueva.staticwebassets.runtime.json
 E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\AppEroskiNueva.staticwebassets.endpoints.json
@@ -1065,9 +1061,6 @@ E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\compressed\1cc7axan4s-sw8h8
 E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\compressed\713kx7o93i-tjcz0u77k5.gz
 E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\compressed\4d94rpsu1k-tptq2av103.gz
 E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\compressed\59lzl2ixtk-lfu7j35m59.gz
-E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\compressed\ifw9pv475e-zfu3h3d1h3.gz
-E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\compressed\oj544l88bn-3sf9rl5ff9.gz
-E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\compressed\krsn2wqghk-784orp22a5.gz
 E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\staticwebassets.build.json
 E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\staticwebassets.build.json.cache
 E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\staticwebassets.development.json
@@ -1077,3 +1070,14 @@ E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\AppEroskiNueva.dll
 E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\refint\AppEroskiNueva.dll
 E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\AppEroskiNueva.pdb
 E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\ref\AppEroskiNueva.dll
+E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\AppEroskiNueva.05m8u6scvs.wasm
+E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\AppEroskiNueva.io15fgjos0.pdb
+E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\AppEroskiNueva.05m8u6scvs.wasm.gz
+E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\wwwroot\_framework\AppEroskiNueva.io15fgjos0.pdb.gz
+E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\docs\web.config
+E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\docs\AppEroskiNueva.staticwebassets.endpoints.json
+E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\docs\wwwroot\sample-data\weather.json
+E:\Proyectos\Repos\AppEroskiNueva\bin\Release\net9.0\docs\wwwroot\_framework\blazor.boot.json
+E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\compressed\ifw9pv475e-05m8u6scvs.gz
+E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\compressed\oj544l88bn-io15fgjos0.gz
+E:\Proyectos\Repos\AppEroskiNueva\obj\Release\net9.0\compressed\krsn2wqghk-9vi9du7icx.gz
