@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppEroskiNueva")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14ed3e660165a087d34db244bb6d0f9b114e85d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03fc7b65667a677fdfe542a0ccfb8dd1f54d9488")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppEroskiNueva")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppEroskiNueva")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

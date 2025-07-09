@@ -1,5 +1,14 @@
+E:\Proyectos\Repos\AppEroskiNueva\dist\dist\web.config
 E:\Proyectos\Repos\AppEroskiNueva\dist\docs\web.config
+E:\Proyectos\Repos\AppEroskiNueva\dist\dist\AppEroskiNueva.staticwebassets.endpoints.json
+E:\Proyectos\Repos\AppEroskiNueva\dist\dist\docs\AppEroskiNueva.staticwebassets.endpoints.json
+E:\Proyectos\Repos\AppEroskiNueva\dist\dist\docs\wwwroot\sample-data\weather.json
+E:\Proyectos\Repos\AppEroskiNueva\dist\dist\docs\wwwroot\_framework\blazor.boot.json
+E:\Proyectos\Repos\AppEroskiNueva\dist\dist\wwwroot\sample-data\weather.json
+E:\Proyectos\Repos\AppEroskiNueva\dist\dist\wwwroot\_framework\blazor.boot.json
 E:\Proyectos\Repos\AppEroskiNueva\dist\docs\AppEroskiNueva.staticwebassets.endpoints.json
 E:\Proyectos\Repos\AppEroskiNueva\dist\docs\wwwroot\sample-data\weather.json
 E:\Proyectos\Repos\AppEroskiNueva\dist\docs\wwwroot\_framework\blazor.boot.json
+E:\Proyectos\Repos\AppEroskiNueva\dist\sample-data\weather.json
+E:\Proyectos\Repos\AppEroskiNueva\dist\_framework\blazor.boot.json
 E:\Proyectos\Repos\AppEroskiNueva\dist\web.config
