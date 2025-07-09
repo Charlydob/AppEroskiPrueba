@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7AkdcIjQOqg=",
+  "dgSpecHash": "J4dTswIxal4=",
   "success": true,
   "projectFilePath": "E:\\Proyectos\\Repos\\AppEroskiPrueba\\AppEroskiPrueba.csproj",
   "expectedPackageFiles": [
@@ -29,8 +29,8 @@
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.jsinterop\\9.0.5\\microsoft.jsinterop.9.0.5.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.5\\microsoft.jsinterop.webassembly.9.0.5.nupkg.sha512",
     "C:\\Users\\carlo\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.5\\microsoft.net.illink.tasks.9.0.5.nupkg.sha512",
-    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.5\\microsoft.net.sdk.webassembly.pack.9.0.5.nupkg.sha512",
-    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.5\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.5.nupkg.sha512"
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.7\\microsoft.net.sdk.webassembly.pack.9.0.7.nupkg.sha512",
+    "C:\\Users\\carlo\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.7\\microsoft.netcore.app.ref.9.0.7.nupkg.sha512"
   ],
   "logs": []
 }
